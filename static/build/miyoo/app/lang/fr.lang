@@ -28,7 +28,7 @@
 	"25": "Vol. fond sonore",
 	"26": "Luminosité",
 	"27": "Rafraichir Roms",
-	"28": "Reset Usine",
+	"28": "Réinitialisation d’usine",
 	"29": "Flash Mode",
 	"30": "Info matériel",
 	"31": "Test matériel",
@@ -84,7 +84,7 @@
 	"81": "Supprimer ce favori",
 	"82": "La rom correspondante ne sera\npas effacée de la carte SD.",
 	"83": "Scanner les jeux",
-	"84": "GAMEINFO",
+	"84": "INFOS JEU",
 	"85": "Créer Cache",
 	"86": "Éteindre",
 	"87": "Éteindre dans %d secondes",
@@ -155,7 +155,7 @@
 	"152": "Entrez le mot de passe",
 	"153": "Recherche",
 	"154": "Échec de la connexion.\nVérifiez le mot de passe\nou redémarrez le routeur",
-	"155": "Website",
+	"155": "Site web",
 	"300": "Suivant",
 	"301": "Reprendre"
 }
